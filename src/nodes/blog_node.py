@@ -2,7 +2,7 @@ from src.states.blogstate import BlogState
 
 class BlogNode:
     """
-    A class to represent he blog node
+    A class to represent the blog node
     """
 
     def __init__(self,llm):
